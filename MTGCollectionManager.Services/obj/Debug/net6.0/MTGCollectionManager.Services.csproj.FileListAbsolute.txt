@@ -1,0 +1,17 @@
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\bin\Debug\net6.0\MTGCollectionManager.Services.deps.json
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\bin\Debug\net6.0\MTGCollectionManager.Services.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\bin\Debug\net6.0\MTGCollectionManager.Services.pdb
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\bin\Debug\net6.0\MTGCollectionManager.Data.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\bin\Debug\net6.0\MTGCollectionManager.Models.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\bin\Debug\net6.0\MTGCollectionManager.Data.pdb
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\bin\Debug\net6.0\MTGCollectionManager.Models.pdb
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\obj\Debug\net6.0\MTGCollectionManager.Services.csproj.AssemblyReference.cache
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\obj\Debug\net6.0\MTGCollectionManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\obj\Debug\net6.0\MTGCollectionManager.Services.AssemblyInfoInputs.cache
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\obj\Debug\net6.0\MTGCollectionManager.Services.AssemblyInfo.cs
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\obj\Debug\net6.0\MTGCollectionManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\obj\Debug\net6.0\MTGCollectionManager.Services.csproj.CopyComplete
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\obj\Debug\net6.0\MTGCollectionManager.Services.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\obj\Debug\net6.0\refint\MTGCollectionManager.Services.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\obj\Debug\net6.0\MTGCollectionManager.Services.pdb
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Services\obj\Debug\net6.0\ref\MTGCollectionManager.Services.dll

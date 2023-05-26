@@ -1,0 +1,73 @@
+﻿@using MTGCollectionManager.Models.API;
+@model ResultsViewModel<MTGAPImodel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<body id="page-top" style="background-color: ghostwhite">
+<div class="text-center border-2">
+    <h1 class="display-4">Start Organizing your Cards today.</h1>
+    <h3>This MVC was made to help you sort and store your Magic The Gaathering collection</h3>
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-sm-4 card">
+            <h3 class="card-header">Cards</h3>
+            <p class="card-body">Look at the cards youve added to your collection along with how many.</p>
+            <a class="card-footer" asp-controller="Card" asp-action="Index">Look at your cards here</a>
+        </div>
+        <div class="col-sm-4 card">
+            <h3 class="card-header">Decks</h3>
+            <p class="card-body">Take a look at the decks youve made!</p>
+            <a class="card-footer" asp-controller="Deck" asp-action="Index">Look at your decks here</a>
+        </div>
+        <div class="col-sm-4 card">
+            <h3 class="card-header">WishList</h3>
+            <p class="card-body">Here are some of the cards youve been wanting.</p>
+            <a class="card-footer" asp-controller="WIshList" asp-action="Index">Look at your wishlist here</a>
+        </div>
+    </div>
+</div>
+<div>
+    <hr/>
+        <h4 @*style="background-color: ghostwhite"*@ class="text-center">Cards</h4>
+    <hr/>
+    @if (Model.Results?.Count() > 0)
+    {
+        <div class="d-flex flex-row flex-wrap">
+            @foreach (var card in Model.Results)
+            {
+                <div class="card align-self-md-auto item-container border-dark m-auto ">
+                    @*<a asp-action="Card" asp-route-id="@card.Id" class="item">*@
+                        <h4>@card.Name</h4>
+                        <div class="item-traits">
+                            <p>ManaCost: @card.ManaCost</p>
+                            <p>Colors: @card.Colors</p>
+                            <p>Type: @card.Type</p>
+                            <p>Rarity: @card.Rarity</p>
+                            <img src="@card.ImageUrl" alt="Image of @card.Name">
+                        </div>
+                    @*</a>*@
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@*<div class="d-flex flex-row justify-content-between p-2">
+    @if (Model.Previous is not null)
+    {
+        <a asp-action="Index" asp-route-page="@Model.PreviousPageNum">Previous</a>
+    }
+    else
+    {
+        <span></span>
+    }
+    @if (Model.Next is not null)
+    {
+        <a asp-action="Index" asp-route-page="@Model.NextPageNum">Next</a>
+    }
+</div>*@
+
+</body>

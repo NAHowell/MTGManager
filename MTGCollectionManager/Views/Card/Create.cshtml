@@ -1,0 +1,38 @@
+﻿@model MTGCollectionManager.Models.Cards.CardAdd
+
+@{
+    ViewData["Title"] = "Card Add";
+}
+
+<body style="background-color: ghostwhite">
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+<div class="container">
+    <form method="post" asp-action="Create">
+        <div class="form-group">
+            <label for="CardName">Card Name</label>
+            <input class="form-control" name="CardName" placeholder="Sol Ring"/>
+            <span asp-validation-for="CardName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="Quantity">Quantity</label>
+            <input type="number" class="form-control" name="Quantity" placeholder="4" />
+            <span asp-validation-for="Quantity" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block mt-2">Create</button>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>

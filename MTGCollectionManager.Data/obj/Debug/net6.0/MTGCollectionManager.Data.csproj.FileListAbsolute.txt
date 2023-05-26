@@ -1,0 +1,12 @@
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\bin\Debug\net6.0\MTGCollectionManager.Data.deps.json
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\bin\Debug\net6.0\MTGCollectionManager.Data.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\bin\Debug\net6.0\MTGCollectionManager.Data.pdb
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\obj\Debug\net6.0\MTGCollectionManager.Data.csproj.AssemblyReference.cache
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\obj\Debug\net6.0\MTGCollectionManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\obj\Debug\net6.0\MTGCollectionManager.Data.AssemblyInfoInputs.cache
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\obj\Debug\net6.0\MTGCollectionManager.Data.AssemblyInfo.cs
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\obj\Debug\net6.0\MTGCollectionManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\obj\Debug\net6.0\MTGCollectionManager.Data.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\obj\Debug\net6.0\refint\MTGCollectionManager.Data.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\obj\Debug\net6.0\MTGCollectionManager.Data.pdb
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager.Data\obj\Debug\net6.0\ref\MTGCollectionManager.Data.dll

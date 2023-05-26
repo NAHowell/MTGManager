@@ -1,0 +1,38 @@
+﻿@using MTGCollectionManager.Models.API;
+@model ResultsViewModel<MTGAPImodel>
+
+
+@{
+    ViewData["Title"] = "Cards";
+}
+<h1>@ViewData["Title"]</h1>
+
+<body style="background-color: ghostwhite">
+
+<p>This site was created by Magic The Gathering fans for Magic fans to store and view thier collection of cards along with making decks. You can also make a wish list of cards you want to add to your collection. Here we have a bunch of cards to view.</p>
+
+    <div>
+        <hr />
+        @if (Model.Results?.Count() > 0)
+        {
+            <div class="d-flex flex-row flex-wrap">
+                @foreach (var card in Model.Results)
+                {
+                    <div class="card align-self-md-auto item-container">
+                        @*<a asp-action="Card" asp-route-id="@card.Id" class="item">*@
+                        <h4>@card.Name</h4>
+                        <div class="item-traits">
+                            <p>ManaCost: @card.ManaCost</p>
+                            <p>Colors: @card.Colors</p>
+                            <p>Type: @card.Type</p>
+                            <p>Rarity: @card.Rarity</p>
+                            <img src="@card.ImageUrl" alt="Image of @card.Name">
+                        </div>
+                        @*</a>*@
+                    </div>
+                }
+            </div>
+        }
+    </div>
+
+</body>

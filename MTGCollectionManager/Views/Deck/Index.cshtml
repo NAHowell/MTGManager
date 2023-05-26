@@ -1,0 +1,41 @@
+﻿@model IEnumerable<MTGCollectionManager.Models.Decks.ViewDeck>
+
+@{
+    ViewData["Title"] = "Deck Collection";
+}
+
+<body style="background-color: ghostwhite">
+
+<h1 class="text-center">Card Collection</h1>
+<a asp-controller="Deck" asp-action="Create">Add Deck</a>
+
+<table class="table table-striped table-dark">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Format</th>
+            <th>Id</th>
+            <th>Edit the deck</th>
+            <th>Remove the deck</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var deck in Model)
+        {
+            <tr>
+                <td>@deck.Name</td>
+                <td>@deck.Format</td>
+                <td>@deck.Id</td>
+                <td><a asp-controller="Deck" asp-action="Edit">Edit Deck</a></td>
+                <td><a asp-controller="Deck" asp-action="Delete" asp-route-id="@deck.Id">Remove Deck</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Back to the Home Page</a>
+</div>
+
+</body>

@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MTGCollectionManager
+build_property.RootNamespace = MTGCollectionManager
+build_property.ProjectDir = C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectionManager
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Card/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Card/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Card/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Card/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Card/NotLoggedIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZFxOb3RMb2dnZWRJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Card/ViewPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZFxWaWV3UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Deck/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVja1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Deck/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVja1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Deck/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVja1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Deck/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVja1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Deck/NotLoggedIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVja1xOb3RMb2dnZWRJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Deck/ViewPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVja1xWaWV3UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/WishList/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lzaExpc3RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/WishList/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lzaExpc3RcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/WishList/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lzaExpc3RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/WishList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lzaExpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/WishList/ViewPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lzaExpc3RcVmlld1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/13179/Desktop/ElevenFifty/VSComunity/RedBadge/MTGCollectionManager/MTGCollectionManager/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sqbxid2aag

@@ -1,0 +1,12 @@
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\bin\Debug\net6.0\MTGCollectionManager.Models.deps.json
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\bin\Debug\net6.0\MTGCollectionManager.Models.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\bin\Debug\net6.0\MTGCollectionManager.Models.pdb
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\obj\Debug\net6.0\MTGCollectionManager.Models.csproj.AssemblyReference.cache
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\obj\Debug\net6.0\MTGCollectionManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\obj\Debug\net6.0\MTGCollectionManager.Models.AssemblyInfoInputs.cache
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\obj\Debug\net6.0\MTGCollectionManager.Models.AssemblyInfo.cs
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\obj\Debug\net6.0\MTGCollectionManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\obj\Debug\net6.0\MTGCollectionManager.Models.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\obj\Debug\net6.0\refint\MTGCollectionManager.Models.dll
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\obj\Debug\net6.0\MTGCollectionManager.Models.pdb
+C:\Users\13179\Desktop\ElevenFifty\VSComunity\RedBadge\MTGCollectionManager\MTGCollectorManager.Models\obj\Debug\net6.0\ref\MTGCollectionManager.Models.dll

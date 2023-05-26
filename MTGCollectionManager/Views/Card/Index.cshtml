@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MTGCollectionManager.Models.Cards.ViewCard>
+
+@{
+    ViewData["Title"] = "Card Collection";
+}
+
+<body style="background-color: ghostwhite">
+
+<h1 class="text-center">Card Collection</h1>
+<a asp-controller="Card" asp-action="Create">Add Cards</a>
+
+<table class="table table-striped table-dark">
+    <thead>
+        <tr>
+            <th>Card Name</th>
+            <th>Quantity</th>
+            <th>Id</th>
+            <th>Edit Card</th>
+            <th>Remove Card</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var card in Model)
+        {
+            <tr>
+                <td>@card.CardName</td>
+                <td>@card.Quantity</td>
+                <td>@card.Id</td>
+                <td><a asp-controller="Card" asp-action="Edit" asp-route-id="@card.Id">Edit your card.</a></td>
+                <td><a asp-controller="Card" asp-action="Delete" asp-route-id="@card.Id">Remove card from collection.</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-controller="Home"asp-action="Index">Back to the Home Page</a>
+</div>
+
+</body>

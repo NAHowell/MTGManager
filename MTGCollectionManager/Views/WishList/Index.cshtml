@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MTGCollectionManager.Models.WishList.ViewWishList>
+
+@{
+    ViewData["Title"] = "Wishlist";
+}
+
+<body style="background-color: ghostwhite">
+
+<h1 class="text-center">Wishlist</h1>
+<a asp-controller="WishList" asp-action="Create">Add Cards</a>
+
+<table class="table table-striped table-dark">
+    <thead>
+        <tr>
+            <th>Card Name</th>
+            <th>Quantity</th>
+            <th>Id</th>
+            <th>Edit Card</th>
+            <th>Remove Card</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var wish in Model)
+        {
+            <tr>
+                <td>@wish.CardName</td>
+                <td>@wish.Quantity</td>
+                <td>@wish.id</td>
+                <td><a asp-controller="WishList" asp-action="Edit" asp-route-id="@wish.id">Edit your card.</a></td>
+                <td><a asp-controller="WIshList" asp-action="Delete" asp-route-id="@wish.id">Remove card from collection.</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Back to the Home Page</a>
+</div>
+
+</body>
